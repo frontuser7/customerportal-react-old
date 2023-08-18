@@ -1,0 +1,26 @@
+.Menucard {
+  background-color: #fdfcfc;
+}
+
+.description {
+  color: #939393;
+}
+
+.fooditem {
+  width: 80px;
+  border-radius: 50%;
+}
+
+.price {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #fffec6;
+  color: #6d6c34;
+  border-bottom-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.outofstock {
+  background-color: #f1c27b;
+}

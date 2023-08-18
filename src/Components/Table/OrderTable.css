@@ -1,0 +1,12 @@
+tr th,
+tr td {
+  font-size: 10px !important;
+}
+
+.pending {
+  color: red !important;
+}
+
+.confirm {
+  color: green !important;
+}

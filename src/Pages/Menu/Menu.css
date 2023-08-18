@@ -1,0 +1,11 @@
+.menuPage {
+  margin-bottom: 100px;
+}
+
+.search-item {
+  border: 1px solid #b1b071;
+  outline: none;
+  font-size: 13px;
+  padding: 5px 12px;
+  width: 95vw;
+}

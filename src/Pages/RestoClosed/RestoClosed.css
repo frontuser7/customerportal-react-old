@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+
+.restocloseLogo {
+  width: 300px;
+  margin-top: 15vh;
+}
+
+.restostatus {
+  font-family: "Lilita One", cursive !important;
+  font-size: 3rem;
+  color: #65617d;
+}

@@ -1,0 +1,17 @@
+.restaurantDetailsCard {
+  width: 96vw;
+  background-color: #f9f5f6;
+}
+
+.restologo {
+  width: 120px;
+}
+
+.restodescription {
+  color: #939393;
+  width: fit-content;
+}
+
+.tnc {
+  font-size: 11px;
+}

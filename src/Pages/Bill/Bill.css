@@ -1,0 +1,18 @@
+.Bill_details {
+  font-size: 12px !important;
+}
+
+.Bill_details > span {
+  font-weight: normal !important;
+}
+
+.bill-card {
+  width: 96vw;
+  overflow: auto;
+  background-color: #edfde3;
+}
+
+.bill-card > table th,
+.bill-card > table td {
+  background-color: transparent !important;
+}

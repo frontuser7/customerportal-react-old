@@ -1,0 +1,10 @@
+.catCard {
+  width: max-content;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  padding: 5px 8px;
+  font-size: 13px;
+  border: 1px solid #cac97a;
+  color: #8d840b;
+  transition: 0.6s ease-in-out;
+}
